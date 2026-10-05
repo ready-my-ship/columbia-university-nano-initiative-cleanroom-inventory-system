@@ -5,6 +5,12 @@ A production-oriented inventory management system developed for the Columbia Uni
 
 The system manages garment checkout and returns, barcode-based inventory tracking, damage accountability, vendor invoice processing, ruin-cost tracking, and operational reporting.
 
+## Management Dashboard
+
+The Power BI management dashboard provides an executive view of garment damage trends, cost exposure, incident drivers, and projected year-end performance.
+
+![CNI Cleanroom Damage and Cost Management Dashboard](images/cni_dashboard_png.png)
+
 ## Business Problem
 
 Cleanroom garment inventory was managed through a largely manual workflow involving spreadsheets, barcode scans, recurring file copies, vendor reports, and manual record verification. This created several operational challenges:
